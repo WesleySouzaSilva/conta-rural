@@ -10,8 +10,7 @@ import lombok.Setter;
 @AllArgsConstructor
 @NoArgsConstructor
 public class EnderecoCliente {
-
-	private Integer id;
+	
 	private String logradouro;
 	private String numero;
 	private String bairro;

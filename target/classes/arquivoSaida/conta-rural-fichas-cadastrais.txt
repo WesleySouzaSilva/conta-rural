@@ -1,0 +1,114 @@
+-----------------------DADOS DO CLIENTE-------------------------
+| Nome = JOAO DA SILVA DOS SANTOS RODRI |
+| Data = 19800112 |
+| CPF/CNPJ = 00013521779118 |
+| Sexo = M |
+| Nome da Mae = CRISTINA DOS SANTOS |
+| Estado Civil = C |
+| Renda Atual = 0000001275 |
+| Telefone = 1133511010 |
+| Celular = 11999771010 |
+| E-mail = joaosilva@gmail.com |
+| Lougradouro = RUA JOAQUIM CRISTOVAO |
+| Numero = 00123 |
+| Bairro = VILA DOS BANDEIRANTES |
+| Complemento = CASA |
+| Cidade = ARAUCARIA |
+| Estado = PR |
+-----------------------------------------------------------------
+
+-----------------------DADOS DO CLIENTE-------------------------
+| Nome = JOSE DA SILVA |
+| Data = 19790222 |
+| CPF/CNPJ = 00027025733040 |
+| Sexo = M |
+| Nome da Mae = SILVIA DAS FLORES |
+| Estado Civil = V |
+| Renda Atual = 0000385690 |
+| Telefone = 2032211212 |
+| Celular = 20984151212 |
+| E-mail = josesilva@hotmail.com |
+| Lougradouro = RUA PARACAICA |
+| Numero = 04433 |
+| Bairro = CENTRO |
+| Complemento = APTO 32 BLOC C |
+| Cidade = UBERLANDIA |
+| Estado = MG |
+-----------------------------------------------------------------
+
+-----------------------DADOS DO CLIENTE-------------------------
+| Nome = MARIA DA SILVA |
+| Data = 19900115 |
+| CPF/CNPJ = 52237277000136 |
+| Sexo = F |
+| Nome da Mae = MARIA ANTONIETA |
+| Estado Civil = S |
+| Renda Atual = 0001025665 |
+| Telefone = 3222211200 |
+| Celular = 32987551200 |
+| E-mail = fazendamaria@fazendaverde.com.br |
+| Lougradouro = RODOVIA BR 151 |
+| Numero = 01200 |
+| Bairro = DISTRITO RURAL |
+| Complemento = CHACARA |
+| Cidade = JUINA |
+| Estado = MT |
+-----------------------------------------------------------------
+
+-----------------------DADOS DO CLIENTE-------------------------
+| Nome = LEONIR DA SILVA DOS SANTOS ANT |
+| Data = 19820913 |
+| CPF/CNPJ = 84774493000107 |
+| Sexo = M |
+| Nome da Mae = ADRIANA RODRIGUES |
+| Estado Civil = D |
+| Renda Atual = 0000402345 |
+| Telefone = 4232511222 |
+| Celular = 42988881222 |
+| E-mail = leonir@yahoo.com.br |
+| Lougradouro = AVENIDA BENTO DA SILVA |
+| Numero = 00567 |
+| Bairro = BOM SUCESSO |
+| Complemento = APTO 55 |
+| Cidade = SAO PAULO |
+| Estado = SP |
+-----------------------------------------------------------------
+
+-----------------------DADOS DO CLIENTE-------------------------
+| Nome = ALTAIR JOSE RODRIGUES DOS SANT |
+| Data = 19851025 |
+| CPF/CNPJ = 00006971883020 |
+| Sexo = M |
+| Nome da Mae = PRISCILA SILVA DOS SANTOS RODR |
+| Estado Civil = C |
+| Renda Atual = 0000090045 |
+| Telefone = 5535551212 |
+| Celular = 55976551212 |
+| E-mail = altairjose13@gmail.com |
+| Lougradouro = RUA JOSE QUADROS RIBEIRO |
+| Numero = 00234 |
+| Bairro = JARDIM INDUISTRIAL II |
+| Complemento = CASA |
+| Cidade = BRASILIA |
+| Estado = DF |
+-----------------------------------------------------------------
+
+-----------------------DADOS DO CLIENTE-------------------------
+| Nome = NAIR APARECIDA ALVES |
+| Data = 19880720 |
+| CPF/CNPJ = 00969405000132 |
+| Sexo = F |
+| Nome da Mae = NADIR DOS SANTOS ALVES DE SOUZ |
+| Estado Civil = S |
+| Renda Atual = 0000204555 |
+| Telefone = 7979551212 |
+| Celular = 79979551212 |
+| E-mail = nair@hotmail.com |
+| Lougradouro = AVENIDA DAS ORQUIDEAS |
+| Numero = 09988 |
+| Bairro = BARREIRINHA |
+| Complemento = CONDOMINIO ROSA |
+| Cidade = ARCOVERDE |
+| Estado = PE |
+-----------------------------------------------------------------
+

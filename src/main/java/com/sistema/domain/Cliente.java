@@ -13,9 +13,9 @@ import lombok.Setter;
 @NoArgsConstructor
 public class Cliente {
 
-	private Integer id;
 	private String nome;
-	private String cpfdataNascimento;
+	private String dataNascimento;
+	private String cpfCnpj;
 	private String sexo;
 	private String nomeMae;
 	private String estadoCivil;
